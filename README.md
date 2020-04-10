@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
+It was a good day.
